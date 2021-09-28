@@ -12,7 +12,7 @@
 
 
 🌱 **I’m currently learning ...**
-- how to add S3 Buckets intergration into a Flask application.
+- how to integrate S3 Buckets into a Flask application.
 - the ins and outs of Machine Learning using data pipelines.
 - parallel programming with Python's Dask to deal with large datasets.
 
