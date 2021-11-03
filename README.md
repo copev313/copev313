@@ -3,7 +3,7 @@
 # 👾 Welcome to My GitHub! 👨‍💻
 
 
-👨🏽‍💻 **I'm  a Junior Data Scientist & Software Engineer**.
+👨🏽‍💻 **I am currently a Data Solution Architecture Senior Analyst at Goodyear**.
 
 
 🔭 **I’m currently working on ...**
