@@ -3,18 +3,21 @@
 # 👾 Welcome to My GitHub! 👨‍💻
 
 
-👨🏽‍💻 **I am currently a Data Solution Architecture Senior Analyst at Goodyear**.
+👨🏽‍💻 **I am currently a Data Solutions Architect & Senior Analyst at Goodyear**.
 
 
 🔭 **I’m currently working on ...**
-- an IoT dashboard being deployed on Raspberry Pi
-- a SaaS project built in Django & React
+- a personal web dashboard built with Flask & MongoDB Atlas.
+- an auto populated cryto price database made with Deepnote & bit.io.
+- creating forcasting models for stock, crypto, gas prices, etc.
 
 
 🌱 **I’m currently learning ...**
 - how to integrate S3 Buckets into a Flask application.
 - the ins and outs of Machine Learning using data pipelines.
-- parallel programming with Python's Dask to deal with large datasets.
+- to master the Django REST Framework.
+- the magic that is GitHub actions.
+- how to create Streamlit dashboard web apps.
 
 
 <h2 align="center"> Skills ✏️ </h2>
