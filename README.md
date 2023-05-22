@@ -3,30 +3,31 @@
 # 👾 Welcome to My GitHub! 👨‍💻
 
 
-👨🏽‍💻 **I am currently a Data Solutions Architect & Senior Analyst at Goodyear**.
+👨🏽‍💻 **I am currently a Data Solutions Architect & Senior Analyst at [Goodyear](https://github.com/goodyear)**.
 
-
+-----
 🔭 **I’m currently working on ...**
-- a personal web dashboard built with Flask & MongoDB Atlas.
-- an auto populated cryto price database made with Deepnote & bit.io.
-- creating forcasting models for stock, crypto, gas prices, etc.
+- automating continuous integration & deployments with GitHub Actions.
+- building Prefect web apps to reduce the mundane and increase user experience.
+- generating automated EDA & PCA reports for data sets that interest me.
+- improving the lifecycle, observability & fault tolerance of data pipelines using Prefect.
 
-
+-----
 🌱 **I’m currently learning ...**
-- how to integrate S3 Buckets into a Flask application.
-- the ins and outs of Machine Learning using data pipelines.
-- to master the Django REST Framework.
-- the magic that is GitHub actions.
-- how to create Streamlit dashboard web apps.
+- how to create event-driven data pipelines in AWS.
+- how to use docker-compose to manage multiple intercommunicating services.
+- the fundamentals of data-driven web apps using Next.js, SWR, and server-side rendering.
+- about multiple concepts in Deep Learning (from [Deep Learning: A Visual Approach](https://www.goodreads.com/book/show/52555529-deep-learning))
 
-
+-----
 <h2 align="center"> Skills ✏️ </h2>
 
 <!-- Python -->
 <div align="center">
-  <img alt="Python" height="28px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Django" height="28px" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="Flask"  height="28px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Python"   height="28px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Django"   height="28px" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Flask"    height="28px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="FastAPI"  height="28px" src="https://img.shields.io/badge/FastAPI-/?color=009688&style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
   
 <br>
@@ -43,8 +44,8 @@
   <img alt="TailwindCSS" height="28px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" 	 height="28px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="React" 	 height="28px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Redux" 	 height="28px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Node.js" 	 height="28px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Next.js" 	 height="28px" src="https://img.shields.io/badge/Next.js-/?color=000000&style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
 <br>
@@ -54,6 +55,7 @@
   <img alt="MySQL" 	height="28px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" height="28px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" 	height="28px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Snowflake" 	height="28px" src="https://img.shields.io/badge/Snowflake-/?color=29B5E8&style=for-the-badge&logo=snowflake&logoColor=white" />
 </div>
 
 <!-- Deployment Services -->
@@ -61,7 +63,7 @@
   <img alt="Netlify" 		height="28px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img alt="Heroku" 		height="28px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="Google Cloud" 	height="28px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="AWS" 		height="28px" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS" 		height="28px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 <br>
@@ -69,10 +71,23 @@
 <h2 align="center"> Tools 🛠️ </h2>
 
 <div align="center">
-  <img alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Terminal" 		width="87px" src="https://img.shields.io/badge/Terminal-100000?style=for-the-badge" />
-  <img alt="Git" 		width="61px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" 		width="87px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <div align="center">
+    <img alt="Terminal"    width="87px" src="https://img.shields.io/badge/Terminal-100000?style=for-the-badge" />
+    <img alt="Git" 		     width="61px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </div>
+  
+  <div align="center">
+    <img alt="Deepnote"   width="105px" src="https://img.shields.io/badge/Deepnote-/?color=3793EF&style=for-the-badge&logo=deepnote&logoColor=white" />
+    <img alt="Google Colab"   width="132px" src="https://img.shields.io/badge/Google_Colab-/?color=F9AB00&style=for-the-badge&logo=googlecolab&logoColor=white" />
+  </div>
+  
+  <div align="center">
+    <img alt="Terraform"   width="120px" src="https://img.shields.io/badge/Terraform-/?color=7b42bc&style=for-the-badge&logo=terraform&logoColor=white" />
+    <img alt="Docker" 		 width="87px" src="https://img.shields.io/badge/Docker-/?color=2496ED&style=for-the-badge&logo=docker&logoColor=white" /> 
+    <img alt="GitHub" 	   width="87px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Jira" 	   width="72px" src="https://img.shields.io/badge/Jira-/?color=0052CC&style=for-the-badge&logo=jira&logoColor=white" />
+  </div>
 </div>
 
 <br>
