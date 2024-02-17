@@ -3,21 +3,21 @@
 # 👾 Welcome to My GitHub! 👨‍💻
 
 
-👨🏽‍💻 **I am currently a Data Solutions Architect & Senior Analyst at [Goodyear](https://github.com/goodyear)**.
+👨🏽‍💻 **I am currently a Data Architect at [Goodyear](https://github.com/goodyear) where I improve our analytics environment and broaden our use of cloud-based technologies.**.
 
 -----
 🔭 **I’m currently working on ...**
 - automating continuous integration & deployments with GitHub Actions.
-- building Prefect web apps to reduce the mundane and increase user experience.
-- generating automated EDA & PCA reports for data sets that interest me.
+- building web apps with Streamlit to reduce the mundane and increase user experience.
+- developing data-centric NextJS applications with automatic data fetching and revalidation.
 - improving the lifecycle, observability & fault tolerance of data pipelines using Prefect.
 
 -----
 🌱 **I’m currently learning ...**
-- how to create event-driven data pipelines in AWS.
-- how to use docker-compose to manage multiple intercommunicating services.
+- how to build robust machine learning pipelines with Kedro.
 - the fundamentals of data-driven web apps using Next.js, SWR, and server-side rendering.
 - about multiple concepts in Deep Learning (from [Deep Learning: A Visual Approach](https://www.goodreads.com/book/show/52555529-deep-learning))
+- several ML modeling techniques and their roles in descriptive and predictive analytics.
 
 -----
 <h2 align="center"> Skills ✏️ </h2>
@@ -61,7 +61,6 @@
 <!-- Deployment Services -->
 <div align="center">
   <img alt="Netlify" 		height="28px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img alt="Heroku" 		height="28px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="Google Cloud" 	height="28px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="AWS" 		height="28px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
