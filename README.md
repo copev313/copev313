@@ -7,16 +7,15 @@
 
 -----
 🔭 **I’m currently working on ...**
-- automating continuous integration & deployments with GitHub Actions.
+- improving the lifecycle, observability & fault tolerance of data pipelines using Prefect.
 - building web apps with Streamlit to reduce the mundane and increase user experience.
 - developing data-centric NextJS applications with automatic data fetching and revalidation.
-- improving the lifecycle, observability & fault tolerance of data pipelines using Prefect.
+- managing agentic workflows for automated pipeline processes and cloud architecture.
 
 -----
-🌱 **I’m currently learning ...**
-- how to build robust machine learning pipelines with Kedro.
-- the fundamentals of data-driven web apps using Next.js, SWR, and server-side rendering.
-- about multiple concepts in Deep Learning (from [Deep Learning: A Visual Approach](https://www.goodreads.com/book/show/52555529-deep-learning))
+🌱 **I’m currently learning ...** 
+- multiple concepts in Deep Learning (from [Deep Learning: A Visual Approach](https://www.goodreads.com/book/show/52555529-deep-learning))
+- leveraging NLP techniques & LLMs to analyze unstructured data from the web and other sparse systems.
 - several ML modeling techniques and their roles in descriptive and predictive analytics.
 
 -----
@@ -89,10 +88,9 @@
   </div>
 </div>
 
+<!-- 
 <br>
-
 <h2 align="center"> Stats 📈 </h2>
-
 <div align="center">
   <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=copev313&theme=blue-orange" />
-</div>
+</div> -->
